@@ -1,2 +1,2 @@
 print("ciao come stai?")
-input("Press Enter to continue...")
+print("Press Enter to continue...")
